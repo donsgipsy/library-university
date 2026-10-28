@@ -89,7 +89,8 @@
 
 | Документ | README |
 |---|---|
-| Сводный `ALLPZ.docx` | [README_ALLPZ.md](README_ALLPZ.md) |
-| `PZ_1.docx` — сбор требований | [README_PZ_1.md](README_PZ_1.md) |
-| `PZ_2.docx` — требования | [README_PZ_2.md](README_PZ_2.md) |
-| `PZ_3.docx` — варианты использования | [README_PZ_3.md](README_PZ_3.md) |
+| `report.docx` — общий отчет | [README.md](README.md) |
+| `filimonova-report.docx` — отчёт Филимоновой Е.Э. | [filimonova-report.md](filimonova-report.md) |
+| `grin-report.docx` —  отчёт Гринь В.А.| [grin-report.md](grin-report.md) |
+| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. | [khoptyanaya-report.md](khoptyanaya-report.md) |
+| `lushnikova-report.docx` — отчёт Лушникова А.Д. | [lushnikova-report.md](lushnikova-report.md) |
