@@ -89,8 +89,8 @@
 
 | Документ | README |
 |---|---|
-| `report.docx` — общий отчет | [README.md](README.md) |
-| `filimonova-report.docx` — отчёт Филимоновой Е.Э. | [filimonova-report.md](filimonova-report.md) |
-| `grin-report.docx` —  отчёт Гринь В.А.| [grin-report.md](grin-report.md) |
-| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. | [khoptyanaya-report.md](khoptyanaya-report.md) |
-| `lushnikova-report.docx` — отчёт Лушникова А.Д. | [lushnikova-report.md](lushnikova-report.md) |
+| `report.docx` — общий отчет | [docs\README.md](docs\README.md) |
+| `filimonova-report.docx` — отчёт Филимоновой Е.Э. |[docs/md/filimonova-report.md](md/filimonova-report.md); [docs/doc/filimonova-report.docx](doc/filimonova-report.docx) |
+| `grin-report.docx` —  отчёт Гринь В.А.|[docs/md/grin-report.md](md/grin-report.md); [docs/doc/grin-report.docx](doc/grin-report.docx) |
+| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. |[docs/md/khoptyanaya-report.md](md/khoptyanaya-report.md); [docs/doc/khoptyanaya-report.docx](doc/khoptyanaya-report.docx) |
+| `lushnikova-report.docx` — отчёт Лушникова А.Д. |[docs/doc/lushnikova-report.docx](doc/lushnikova-report.docx); [docs/md/lushnikova-report.md](md/lushnikova-report.md) |
