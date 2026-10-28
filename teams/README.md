@@ -87,9 +87,12 @@
 
 ## Документы
 
-| Документ | README |
+
+| Документ | README и DOCX |
 |---|---|
-| Сводный `ALLPZ.docx` | [README_ALLPZ.md](README_ALLPZ.md) |
-| `PZ_1.docx` — сбор требований | [README_PZ_1.md](README_PZ_1.md) |
-| `PZ_2.docx` — требования | [README_PZ_2.md](README_PZ_2.md) |
-| `PZ_3.docx` — варианты использования | [README_PZ_3.md](README_PZ_3.md) |
+| `report.docx` — общий отчёт | [Markdown](../docs/README.md), [Word](../docs/report.docx) |
+| `filimonova-report.docx` — отчёт Филимоновой Е.Э. | [Markdown](../docs/md/filimonova-report.md), [Word](../docs/doc/filimonova-report.docx) |
+| `grin-report.docx` — отчёт Гринь В.А. | [Markdown](../docs/md/grin-report.md), [Word](../docs/doc/grin-report.docx) |
+| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. | [Markdown](../docs/md/khoptyanaya-report.md), [Word](../docs/doc/khoptyanaya-report.docx) |
+| `lushnikova-report.docx` — отчёт Лушникова А.Д. | [Markdown](../docs/md/lushnikova-report.md), [Word](../docs/doc/lushnikova-report.docx) |
+
