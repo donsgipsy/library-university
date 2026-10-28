@@ -90,9 +90,9 @@
 
 | Документ | README и DOCX |
 |---|---|
-| `report.docx` — общий отчёт | [README](docs/README.md) |
-| `filimonova-report.docx` — отчёт Филимоновой Е.Э. | [Markdown](docs/md/filimonova-report.md), [Word](docs/doc/filimonova-report.docx) |
-| `grin-report.docx` — отчёт Гринь В.А. | [Markdown](docs/md/grin-report.md), [Word](docs/doc/grin-report.docx) |
-| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. | [Markdown](docs/md/khoptyanaya-report.md), [Word](docs/doc/khoptyanaya-report.docx) |
-| `lushnikova-report.docx` — отчёт Лушникова А.Д. | [Markdown](docs/md/lushnikova-report.md), [Word](docs/doc/lushnikova-report.docx) |
+| `report.docx` — общий отчёт | [Markdown](../docs/README.md), [Word](../docs/report.docx) |
+| `filimonova-report.docx` — отчёт Филимоновой Е.Э. | [Markdown](../docs/md/filimonova-report.md), [Word](../docs/doc/filimonova-report.docx) |
+| `grin-report.docx` — отчёт Гринь В.А. | [Markdown](../docs/md/grin-report.md), [Word](../docs/doc/grin-report.docx) |
+| `khoptyanaya-report.docx` — отчёт Хоптяная М.К. | [Markdown](../docs/md/khoptyanaya-report.md), [Word](../docs/doc/khoptyanaya-report.docx) |
+| `lushnikova-report.docx` — отчёт Лушникова А.Д. | [Markdown](../docs/md/lushnikova-report.md), [Word](../docs/doc/lushnikova-report.docx) |
 
