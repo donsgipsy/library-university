@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" pages="4">
   <diagram name="Страница-1" id="n5xWK89svs7KsfffSK8Z">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2960" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
             <mxPoint x="-910" y="419.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="foVTZeDeK6J-L8RjW2aL-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5. Номер уже занят" vertex="1">
+        <mxCell id="foVTZeDeK6J-L8RjW2aL-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6. Номер уже занят" vertex="1">
           <mxGeometry height="30" width="120" x="-1070" y="389.5" as="geometry" />
         </mxCell>
         <mxCell id="foVTZeDeK6J-L8RjW2aL-70" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=classic;startFill=1;" value="">
@@ -108,7 +108,7 @@
             <mxPoint x="-1100" y="449.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="foVTZeDeK6J-L8RjW2aL-71" connectable="0" parent="foVTZeDeK6J-L8RjW2aL-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="6. Показать ошибку" vertex="1">
+        <mxCell id="foVTZeDeK6J-L8RjW2aL-71" connectable="0" parent="foVTZeDeK6J-L8RjW2aL-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="7. Показать ошибку" vertex="1">
           <mxGeometry relative="1" x="-0.0779" y="10" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -233,7 +233,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="euual6N2v5dTMzGpwHvY" name="Страница-2">
-    <mxGraphModel dx="1736" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
