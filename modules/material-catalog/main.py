@@ -1,8 +1,12 @@
 import argparse
 import sys
 
-import catalog
-from catalog import CatalogError
+try:  # запуск как пакета: python -m modules.material_catalog.main
+    from . import catalog
+    from .catalog import CatalogError
+except ImportError:  # запуск как скрипта: python main.py
+    import catalog
+    from catalog import CatalogError
 
 
 def print_list(items):
